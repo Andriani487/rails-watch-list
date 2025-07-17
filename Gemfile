@@ -9,6 +9,8 @@ gem "simple_form"
 gem "sassc-rails"
 gem "ostruct"
 
+gem 'dotenv-rails', groups: [:development, :test]
+
 gem 'cloudinary', '~> 1.16.0'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
